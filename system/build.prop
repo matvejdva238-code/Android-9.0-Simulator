@@ -1,0 +1,6 @@
+ro.build.version.release=9.0
+ro.build.version.sdk=28
+ro.product.model=Android 9.0 Simulator
+ro.product.brand=matvejdva238
+ro.product.manufacturer=pie9
+ro.sf.lcd_density=440
